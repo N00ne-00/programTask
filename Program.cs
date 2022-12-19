@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp6
+namespace programTask
 {
     class Program
     {
@@ -10,8 +10,6 @@ namespace ConsoleApp6
             string input = Console.ReadLine();
 
             Get_Middle(input);
-
-
 
         }
 
@@ -28,15 +26,9 @@ namespace ConsoleApp6
                 return input;
             }
 
-
-
-
-
         }
 
-
-
-
-    }
+    }  // thank you :)
+      //Mariam Ramadan
     }
 
